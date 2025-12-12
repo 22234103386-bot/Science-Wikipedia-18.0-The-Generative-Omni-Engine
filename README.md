@@ -18,7 +18,7 @@ Standard science education is static. Textbooks describe explosions, but student
 
 ## 🎥 Demo & Links
 * **[View App in AI Studio](https://ai.studio/apps/drive/1-r8vi8gRh2DjEPvmjP45WZYrADZzka3r)**
-* **[Live Web App](YOUR_VERCEL_LINK_HERE)**
+
 * **[Video Walkthrough](YOUR_YOUTUBE_LINK_HERE)**
 
 ## 🤖 How it Works (The Omni-Engine)
